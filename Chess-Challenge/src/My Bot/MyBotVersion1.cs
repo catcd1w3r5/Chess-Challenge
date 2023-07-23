@@ -1,7 +1,7 @@
 ﻿using System;
 using ChessChallenge.API;
 
-public class MyBot : IChessBot
+public class MyBotVersion1 : IChessBot
 {
     public Move Think(Board board, Timer timer)
     {
